@@ -1,5 +1,5 @@
 {
-    "name": "shivas/versioning-bundle",
+    "name": "wvsgnovize01/versioning-bundle",
     "type": "symfony-bundle",
     "keywords": ["semantic", "version", "versioning", "semver"],
     "description": "Symfony application versioning, simple console command to manage version (with providers e.g. git tag) of your application using Semantic Versioning 2.0.0 recommendations",
